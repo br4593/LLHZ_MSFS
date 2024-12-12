@@ -1,0 +1,250 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    },
+    {
+      "name": "node2",
+      "mesh": 1
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "mode": 4,
+          "material": 1
+        }
+      ],
+      "name": "part001"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 60,
+      "type": "VEC3",
+      "min": [
+        -26.03276,
+        0.0,
+        -60.01729
+      ],
+      "max": [
+        -18.19024,
+        2.5,
+        2.97277
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 60,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 60,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 90,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 720,
+      "componentType": 5126,
+      "count": 314,
+      "type": "VEC3",
+      "min": [
+        -26.00237,
+        0.0,
+        -78.62688
+      ],
+      "max": [
+        3.5302,
+        4.29167,
+        7.29895
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 720,
+      "componentType": 5126,
+      "count": 314,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 480,
+      "componentType": 5126,
+      "count": 314,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 360,
+      "componentType": 5125,
+      "count": 552,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 2
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 3
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "control_tower"
+    },
+    {
+      "source": 1,
+      "name": "control_tower_lm"
+    },
+    {
+      "source": 2,
+      "name": "long_hangar"
+    },
+    {
+      "source": 3,
+      "name": "long_hangar_lm"
+    }
+  ],
+  "images": [
+    {
+      "uri": "control_tower.png"
+    },
+    {
+      "uri": "control_tower_lm.png"
+    },
+    {
+      "uri": "long_hangar.png"
+    },
+    {
+      "uri": "long_hangar_lm.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 2568
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2568,
+      "byteLength": 4488
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7056,
+      "byteLength": 4488
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11544,
+      "byteLength": 2992
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 14536,
+      "uri": "small_hangar.bin"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_material_day_night_switch"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    },
+    {
+      "name": "node2",
+      "mesh": 1
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 1
+        }
+      ],
+      "name": "part000"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part001"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 188,
+      "type": "VEC3",
+      "min": [
+        -28.07472038269043,
+        0.0,
+        -2.4503674253100989E-15
+      ],
+      "max": [
+        -2.4468283098982337E-15,
+        6.6044015884399414,
+        20.026279449462891
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 188,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 188,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2256,
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "min": [
+        -28.07472038269043,
+        3.9683890342712402,
+        0.026280108839273453
+      ],
+      "max": [
+        -0.027287980541586876,
+        6.6044015884399414,
+        20.026279449462891
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2256,
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1504,
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1344,
+      "componentType": 5125,
+      "count": 12,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "name": "__",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 1.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "name": "__auto_2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 1.0,
+        "baseColorTexture": {
+          "index": 1
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "vertical_square_iron"
+    },
+    {
+      "source": 1,
+      "name": "fna2"
+    }
+  ],
+  "images": [
+    {
+      "uri": "vertical_square_iron.png"
+    },
+    {
+      "uri": "fna2.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1392
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1392,
+      "byteLength": 2352,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3744,
+      "byteLength": 2352,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6096,
+      "byteLength": 1568,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7664,
+      "uri": "fna2.bin"
+    }
+  ]
+}

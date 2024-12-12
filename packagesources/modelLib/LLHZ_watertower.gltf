@@ -1,0 +1,157 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_material_day_night_switch"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6149,
+      "type": "VEC3",
+      "min": [
+        20.701200485229492,
+        3.1210598945617676,
+        -11.090239524841309
+      ],
+      "max": [
+        30.660280227661133,
+        19.0,
+        -0.83100998401641846
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6149,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6149,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 9108,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "name": "material00",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "alphaMode": "BLEND",
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "llhz_watertower"
+    }
+  ],
+  "images": [
+    {
+      "uri": "llhz_watertower.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 36432
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 36432,
+      "byteLength": 73788,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 110220,
+      "byteLength": 73788,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 184008,
+      "byteLength": 49192,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 233200,
+      "uri": "LLHZ_watertower.bin"
+    }
+  ]
+}

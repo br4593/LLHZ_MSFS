@@ -1,0 +1,237 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_material_day_night_switch"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    },
+    {
+      "name": "node2",
+      "mesh": 1
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "mode": 4,
+          "material": 1
+        }
+      ],
+      "name": "part001"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 26,
+      "type": "VEC3",
+      "min": [
+        0.0,
+        0.0,
+        -25.0
+      ],
+      "max": [
+        60.0000114440918,
+        2.5,
+        7.3476398170001581E-15
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 26,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 26,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 312,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC3",
+      "min": [
+        0.0,
+        0.0,
+        -25.0
+      ],
+      "max": [
+        60.0000114440918,
+        2.5,
+        7.3476398170001581E-15
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 312,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 208,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 192,
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "name": "material00",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "name": "material01",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "net"
+    }
+  ],
+  "images": [
+    {
+      "uri": "net.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 336
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 336,
+      "byteLength": 576,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 912,
+      "byteLength": 576,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1488,
+      "byteLength": 384,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1872,
+      "uri": "HAMAMA3.bin"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 734,
+      "type": "VEC3",
+      "min": [
+        -3.83728,
+        -0.00304,
+        -1.55219
+      ],
+      "max": [
+        3.83728,
+        2.78867,
+        1.55869
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 734,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 734,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 2814,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "ambulance"
+    },
+    {
+      "source": 1,
+      "name": "ambulance_lm"
+    }
+  ],
+  "images": [
+    {
+      "uri": "ambulance.png"
+    },
+    {
+      "uri": "ambulance_lm.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 11256
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11256,
+      "byteLength": 8808
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20064,
+      "byteLength": 8808
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28872,
+      "byteLength": 5872
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 34744,
+      "uri": "Ambulanceherz.bin"
+    }
+  ]
+}

@@ -1,0 +1,972 @@
+    <Ils lat="53.87730550020933" lon="28.074777871370316" alt="53.0F" heading="131" frequency="110.700" range="18.0N" magvar="352" ident="IMDL" width="5" name="ILS/GS CAT III RW13L" backCourse="TRUE">
+      <GlideSlope lat="53.90399985015392" lon="28.037805408239365" alt="643.0F" range="18.0N" pitch="3" />
+      <Dme lat="53.90399985015392" lon="28.037805408239365" alt="643.0F" range="25.0N" />
+    </Ils>
+    <Ils lat="53.91147214919329" lon="28.024083226919174" alt="52.0F" heading="311" frequency="110.100" range="18.0N" magvar="352" ident="IMN" width="5" name="ILS/GS CAT I RW31R" backCourse="TRUE">
+      <GlideSlope lat="53.88319429010153" lon="28.068666458129883" alt="677.0F" range="18.0N" pitch="3" />
+      <Dme lat="53.88319429010153" lon="28.068666458129883" alt="677.0F" range="25.0N" />
+    </Ils>
+    <Ils lat="53.90133339911699" lon="28.00272211432457" alt="56.0F" heading="311" frequency="109.700" range="18.0N" magvar="352" ident="IGH" width="5" name="ILS/GS CAT II RW31L" backCourse="TRUE">
+      <GlideSlope lat="53.8714998587966" lon="28.04366648197174" alt="664.0F" range="18.0N" pitch="3" />
+    </Ils>
+    <Ils lat="53.86408321559429" lon="28.058000206947327" alt="57.0F" heading="131" frequency="108.900" range="18.0N" magvar="352" ident="IVX" width="5" name="ILS/GS CAT I RW13R" backCourse="TRUE">
+      <GlideSlope lat="53.89172237366438" lon="28.01372230052948" alt="636.0F" range="18.0N" pitch="3" />
+    </Ils>
+	  <Waypoint lon="27.486111223697662" lat="54.26055561751127" waypointType="NAMED" waypointRegion="UM" waypointIdent="KAZAL" magvar="351.6" />
+    <Waypoint lon="27.64380544424057" lat="54.15411114692688" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS202" magvar="351.6" />
+    <Waypoint lon="27.56077766418457" lat="54.21025011688471" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS203" magvar="351.6" />
+    <Waypoint lon="27.32499986886978" lat="54.17880557477474" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS204" magvar="351.6" />
+    <Waypoint lon="27.720666825771332" lat="54.2924165725708" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS220" magvar="351.5" />
+    <Waypoint lon="27.804638743400574" lat="54.23591651022434" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS221" magvar="351.5" />
+    <Waypoint lon="27.879083454608917" lat="54.18563883751631" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS222" magvar="351.5" />
+    <Waypoint lon="28.075416684150696" lat="54.17819436639547" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS226" magvar="351.4" />
+    <Waypoint lon="27.417027801275253" lat="54.30391654372215" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS321" magvar="351.6" />
+    <Waypoint lon="27.64074996113777" lat="54.370805472135544" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS432" magvar="351.5" />
+    <Waypoint lon="27.14327797293663" lat="53.842416666448116" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS105" magvar="351.8" />
+    <Waypoint lon="26.862750202417374" lat="53.81005547940731" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS208" magvar="351.8" />
+    <Waypoint lon="27.099833339452744" lat="53.75383336097002" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS209" magvar="351.8" />
+    <Waypoint lon="26.927028000354767" lat="53.93461123108864" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS302" magvar="351.8" />
+    <Waypoint lon="27.170583307743073" lat="53.89261119067669" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS405" magvar="351.7" />
+    <Waypoint lon="27.972722053527832" lat="53.92149992287159" waypointType="UNNAMED" waypointRegion="UM" waypointIdent="27NDB" magvar="351.5" />
+    <Waypoint lon="28.088972121477127" lat="53.843527771532536" waypointType="UNNAMED" waypointRegion="UM" waypointIdent="35NDB" magvar="351.5" />
+    <Waypoint lon="27.953333258628845" lat="54.135277681052685" waypointType="NAMED" waypointRegion="UM" waypointIdent="BIZIF" magvar="351.5" />
+    <Waypoint lon="27.901111096143723" lat="53.993889056146145" waypointType="UNNAMED" waypointRegion="UM" waypointIdent="FF13L" magvar="351.5" />
+    <Waypoint lon="27.87999987602234" lat="53.983333222568035" waypointType="UNNAMED" waypointRegion="UM" waypointIdent="FF13R" magvar="351.5" />
+    <Waypoint lon="27.87694439291954" lat="53.98666653782129" waypointType="UNNAMED" waypointRegion="UM" waypointIdent="FQ13R" magvar="351.5" />
+    <Waypoint lon="27.844722121953964" lat="54.03155565261841" waypointType="NAMED" waypointRegion="UM" waypointIdent="KOPZA" magvar="351.5" />
+    <Waypoint lon="27.72583320736885" lat="54.08638905733824" waypointType="NAMED" waypointRegion="UM" waypointIdent="LAKUB" magvar="351.6" />
+    <Waypoint lon="28.109777569770813" lat="53.82916655391455" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS100" magvar="351.5" />
+    <Waypoint lon="28.08511108160019" lat="53.70691683143377" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS102" magvar="351.6" />
+    <Waypoint lon="27.63252764940262" lat="53.77955541014671" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS103" magvar="351.7" />
+    <Waypoint lon="27.294583171606064" lat="53.82319428026676" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS104" magvar="351.7" />
+    <Waypoint lon="27.718194276094437" lat="54.10388879477978" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS201" magvar="351.5" />
+    <Waypoint lon="27.399333268404007" lat="54.12852790206671" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS205" magvar="351.6" />
+    <Waypoint lon="27.355138957500458" lat="54.00647230446339" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS206" magvar="351.7" />
+    <Waypoint lon="27.191472351551056" lat="53.941611126065254" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS207" magvar="351.7" />
+    <Waypoint lon="28.05519461631775" lat="54.066055566072464" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS223" magvar="351.5" />
+    <Waypoint lon="27.948777973651886" lat="53.9376387745142" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS300" magvar="351.5" />
+    <Waypoint lon="27.868611216545105" lat="53.9914445579052" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS301" magvar="351.5" />
+    <Waypoint lon="28.008416891098022" lat="54.063861183822155" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS311" magvar="351.5" />
+    <Waypoint lon="27.97333315014839" lat="53.94552782177925" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS400" magvar="351.5" />
+    <Waypoint lon="27.9888054728508" lat="53.73438902199268" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS403" magvar="351.6" />
+    <Waypoint lon="27.344138771295547" lat="53.76591671258211" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS404" magvar="351.7" />
+    <Waypoint lon="27.830194383859634" lat="53.652388863265514" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS411" magvar="351.7" />
+    <Waypoint lon="28.12169462442398" lat="53.43933328986168" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS412" magvar="351.6" />
+    <Waypoint lon="27.80750021338463" lat="54.05638888478279" waypointType="NAMED" waypointRegion="UM" waypointIdent="NIWAZ" magvar="351.5" />
+    <Waypoint lon="27.782777845859528" lat="54.048611149191856" waypointType="NAMED" waypointRegion="UM" waypointIdent="SANGE" magvar="351.5" />
+    <Waypoint lon="27.823888957500458" lat="54.02111113071442" waypointType="NAMED" waypointRegion="UM" waypointIdent="ZIFSA" magvar="351.5" />
+    <Waypoint lon="28.740277737379074" lat="54.25116654485464" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS114" magvar="351.2" />
+    <Waypoint lon="28.17833349108696" lat="53.78250014036894" waypointType="UNNAMED" waypointRegion="UM" waypointIdent="FF31L" magvar="351.5" />
+    <Waypoint lon="28.199444264173508" lat="53.79277769476175" waypointType="UNNAMED" waypointRegion="UM" waypointIdent="FF31R" magvar="351.5" />
+    <Waypoint lon="28.18222224712372" lat="53.77944443374872" waypointType="UNNAMED" waypointRegion="UM" waypointIdent="FQ31L" magvar="351.5" />
+    <Waypoint lon="28.255222141742706" lat="53.75483348965645" waypointType="NAMED" waypointRegion="UM" waypointIdent="GEFUR" magvar="351.5" />
+    <Waypoint lon="28.44361111521721" lat="53.804166689515114" waypointType="NAMED" waypointRegion="UM" waypointIdent="KAFTU" magvar="351.5" />
+    <Waypoint lon="28.274999856948853" lat="53.716944605112076" waypointType="NAMED" waypointRegion="UM" waypointIdent="KIWUL" magvar="351.5" />
+    <Waypoint lon="28.292222321033478" lat="53.7297223135829" waypointType="NAMED" waypointRegion="UM" waypointIdent="LAWEK" magvar="351.5" />
+    <Waypoint lon="28.201222121715546" lat="53.76727793365717" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS101" magvar="351.5" />
+    <Waypoint lon="28.625611066818237" lat="53.83552774786949" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS111" magvar="351.4" />
+    <Waypoint lon="28.672916740179062" lat="54.00805547833443" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS112" magvar="351.3" />
+    <Waypoint lon="28.699222058057785" lat="54.10333324223757" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS113" magvar="351.3" />
+    <Waypoint lon="28.59227791428566" lat="53.499722220003605" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS121" magvar="351.5" />
+    <Waypoint lon="28.90811115503311" lat="53.46594449132681" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS122" magvar="351.4" />
+    <Waypoint lon="28.37305560708046" lat="53.65027762949467" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS151" magvar="351.5" />
+    <Waypoint lon="28.130110949277878" lat="53.8399999961257" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS200" magvar="351.5" />
+    <Waypoint lon="28.34175020456314" lat="53.872972056269646" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS224" magvar="351.5" />
+    <Waypoint lon="28.77000018954277" lat="53.55819437652826" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS225" magvar="351.5" />
+    <Waypoint lon="28.22094440460205" lat="54.06302768737078" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS312" magvar="351.4" />
+    <Waypoint lon="28.52238893508911" lat="54.120999947190285" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS313" magvar="351.3" />
+    <Waypoint lon="28.35891678929329" lat="53.67211114615202" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS401" magvar="351.5" />
+    <Waypoint lon="28.200555592775345" lat="53.59011098742485" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS402" magvar="351.6" />
+    <Waypoint lon="28.591166585683823" lat="53.70363883674145" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS421" magvar="351.5" />
+    <Waypoint lon="28.517471998929977" lat="53.75386118888855" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS422" magvar="351.5" />
+    <Waypoint lon="28.448472172021866" lat="53.927611000835896" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS427" magvar="351.4" />
+    <Waypoint lon="28.16772222518921" lat="53.9891666918993" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS431" magvar="351.5" />
+    <Waypoint lon="28.202222138643265" lat="53.96611109375954" waypointType="NAMED" waypointRegion="UM" waypointIdent="MS710" magvar="351.5" />
+    <Waypoint lon="28.432500064373016" lat="53.621944449841976" waypointType="NAMED" waypointRegion="UM" waypointIdent="NOZBA" magvar="351.5" />
+    <Waypoint lon="28.23424994945526" lat="53.74449994415045" waypointType="NAMED" waypointRegion="UM" waypointIdent="PUPKE" magvar="351.5" />
+    <Waypoint lon="28.389722406864166" lat="54.07305546104908" waypointType="NAMED" waypointRegion="UM" waypointIdent="SUDOB" magvar="351.4" />
+    <Waypoint lon="28.39722231030464" lat="53.78555551171303" waypointType="NAMED" waypointRegion="UM" waypointIdent="UDVUD" magvar="351.5" />
+	<Departure name="AGNE1A">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS100" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="128.3" rho="8521.38M" magneticCourse="131" distance="5742.669M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS101" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS111" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="10000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS112" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="13000.0F" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS113" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS114" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="AGNEF" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+	<Departure name="AGNE1B">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS300" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="313.5" rho="7595.143M" magneticCourse="311" distance="5927.916M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS301" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS311" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS312" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="8000.0F" speedLimit="230" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SUDOB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS313" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="AGNEF" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+	<Departure name="AGNE1F">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS400" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="327.5" rho="4.0N" magneticCourse="311" distance="3.0N" speedLimit="210" />
+        <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS311" flyOver="FALSE" turnDirection="E" recommendedType="TERMINAL_WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS312" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="8000.0F" speedLimit="230" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SUDOB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS313" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="AGNEF" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="AGNE1G">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS200" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="116.4" rho="8706.627M" magneticCourse="131" distance="3.0N" speedLimit="210" />
+        <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS111" flyOver="FALSE" turnDirection="E" recommendedType="TERMINAL_WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS112" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="13000.0F" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS113" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS114" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="AGNEF" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="ARZI1A">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS100" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="128.3" rho="8521.38M" magneticCourse="131" distance="5742.669M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS101" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS151" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS121" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS122" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="15000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="ARZIM" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+	<Departure name="ARZI1B">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS300" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="313.5" rho="7595.143M" magneticCourse="311" distance="5927.916M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS301" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS311" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS312" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="8000.0F" speedLimit="230" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SUDOB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="10000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="ARZIM" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" speedLimit="250" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="ARZI1F">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS400" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="327.5" rho="4.0N" magneticCourse="311" distance="3.0N" speedLimit="210" />
+        <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS311" flyOver="FALSE" turnDirection="E" recommendedType="TERMINAL_WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS312" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="8000.0F" speedLimit="230" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SUDOB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="10000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="ARZIM" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" speedLimit="250" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="ARZI1G">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS200" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="116.4" rho="8706.627M" magneticCourse="131" distance="3.0N" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS101" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS151" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS121" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS122" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="15000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="ARZIM" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="KUBI1A">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS100" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="128.3" rho="8521.38M" magneticCourse="131" distance="5742.669M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS101" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS111" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="10000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS112" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="13000.0F" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS113" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS114" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="17000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KUBIN" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+	<Departure name="KUBI1B">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS300" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="313.5" rho="7595.143M" magneticCourse="311" distance="5927.916M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS301" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAKUB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS321" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KUBIN" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="16000.0F" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="KUBI1F">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS400" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="327.5" rho="4.0N" magneticCourse="311" distance="3.0N" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAKUB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS321" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KUBIN" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="16000.0F" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="KUBI1G">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS200" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="116.4" rho="8706.627M" magneticCourse="131" distance="3.0N" speedLimit="210" />
+        <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS111" flyOver="FALSE" turnDirection="E" recommendedType="TERMINAL_WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS112" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="13000.0F" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS113" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS114" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="17000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KUBIN" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="OSMU1A">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS100" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="128.3" rho="8521.38M" magneticCourse="131" distance="5742.669M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS101" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS102" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS103" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS104" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="15000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS105" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="17000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="OSMUS" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="OSMU1B">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS300" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="313.5" rho="7595.143M" magneticCourse="311" distance="5927.916M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS301" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAKUB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS302" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="16000.0F" speedLimit="250" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="OSMUS" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="OSMU1F">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS400" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="327.5" rho="4.0N" magneticCourse="311" distance="3.0N" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAKUB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS302" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="16000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="OSMUS" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="OSMU1G">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS200" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="116.4" rho="8706.627M" magneticCourse="131" distance="3.0N" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS101" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS102" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS103" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS104" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="15000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS105" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="17000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="OSMUS" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="SORF1A">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS100" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="128.3" rho="8521.38M" magneticCourse="131" distance="5742.669M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS101" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS111" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="10000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS112" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="13000.0F" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS113" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="SORFO" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="SORF1B">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS300" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="313.5" rho="7595.143M" magneticCourse="311" distance="5927.916M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS301" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS311" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS312" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="8000.0F" speedLimit="230" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SUDOB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS313" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="SORFO" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+	<Departure name="SORF1F">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS400" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="327.5" rho="4.0N" magneticCourse="311" distance="3.0N" speedLimit="210" />
+        <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS311" flyOver="FALSE" turnDirection="E" recommendedType="TERMINAL_WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS312" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="8000.0F" speedLimit="230" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SUDOB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS313" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="SORFO" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="SORF1G">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS200" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="116.4" rho="8706.627M" magneticCourse="131" distance="3.0N" speedLimit="210" />
+        <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS111" flyOver="FALSE" turnDirection="E" recommendedType="TERMINAL_WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS112" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="13000.0F" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS113" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="SORFO" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="TAZI1A">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS100" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="128.3" rho="8521.38M" magneticCourse="131" distance="5742.669M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS101" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS151" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="TAZIP" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="TAZI1B">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS300" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="313.5" rho="7595.143M" magneticCourse="311" distance="5927.916M" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS301" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS311" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS312" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="8000.0F" speedLimit="230" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SUDOB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="15000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="TAZIP" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="TAZI1F">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS400" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="327.5" rho="4.0N" magneticCourse="311" distance="3.0N" speedLimit="210" />
+        <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS311" flyOver="FALSE" turnDirection="E" recommendedType="TERMINAL_WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS312" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="8000.0F" speedLimit="230" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SUDOB" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="15000.0F" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="TAZIP" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+    <Departure name="TAZI1G">
+      <RunwayTransitions />
+      <CommonRouteLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS200" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="116.4" rho="8706.627M" magneticCourse="131" distance="3.0N" speedLimit="210" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS101" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS151" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" speedLimit="250" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="TAZIP" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" />
+      </CommonRouteLegs>
+      <EnrouteTransitions />
+    </Departure>
+	<Arrival name="DAKW1C">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DAKWI" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS225" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="16000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS223" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS222" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS221" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS220" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+	<Arrival name="DAKW1D">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DAKWI" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DELON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="14000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS412" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS411" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS403" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LOZON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS402" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="DAKW1E">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DAKWI" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS225" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="16000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS223" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS222" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS221" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS220" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+	<Arrival name="DAKW1H">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DAKWI" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DELON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="14000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS412" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS411" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS403" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LOZON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS402" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="DAKW1J">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DAKWI" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DELON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="14000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="DAKW1K">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DAKWI" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="DELON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="14000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="KIZI1C">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KIZIR" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS208" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="16000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS207" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS206" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="BIHOL" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="5000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS205" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS204" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAZAL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="KIZI1D">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KIZIR" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS404" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS103" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS403" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LOZON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS402" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+	<Arrival name="KIZI1E">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KIZIR" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS208" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="16000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS207" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS206" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="BIHOL" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="5000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS205" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS204" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAZAL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="KIZI1H">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KIZIR" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS404" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS103" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS403" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LOZON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS402" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="KOLO1C">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KOLOS" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS209" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="14000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS207" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS206" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="BIHOL" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="5000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS205" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS204" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAZAL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="KOLO1D">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KOLOS" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS103" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS403" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LOZON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS402" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="KOLO1E">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KOLOS" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS209" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="14000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS207" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS206" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="BIHOL" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="5000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS205" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS204" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAZAL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="KOLO1H">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="KOLOS" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS103" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS403" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LOZON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS402" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="LENO1C">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LENOK" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAZAL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="LENO1D">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LENOK" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS432" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="17000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS431" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="9000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS422" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS421" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="LENO1E">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LENOK" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAZAL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="LENO1H">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LENOK" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS432" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="17000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS431" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="9000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS422" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS421" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="PENA1C">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="PENAL" recommendedType="WAYPOINT" altitudeDescriptor="-" altitude1="16000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS226" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS222" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS221" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS220" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+	<Arrival name="PENA1D">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="PENAL" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS226" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS431" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="9000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS422" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS421" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="PENA1E">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="PENAL" recommendedType="WAYPOINT" altitudeDescriptor="-" altitude1="16000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS226" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS222" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS221" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS220" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="PENA1H">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="PENAL" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS226" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS431" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="9000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS422" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS421" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="RAFM1C">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RAFMA" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="POMZO" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="12000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS223" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS222" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS221" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS220" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="RAFM1D">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RAFMA" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RIWEN" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="9000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS427" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS422" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS421" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="RAFM1E">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RAFMA" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="POMZO" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="12000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS223" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS222" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS221" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS220" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="RAFM1H">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RAFMA" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RIWEN" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="9000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS427" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS422" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS421" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="RUHA1C">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RUHAL" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="POMZO" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="12000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS223" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS222" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS221" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS220" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="RUHA1D">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RUHAL" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RIWEN" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="9000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS427" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS422" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS421" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="RUHA1E">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RUHAL" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="POMZO" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="12000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS223" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS222" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS221" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS220" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="RUHA1H">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RUHAL" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="RIWEN" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="-" altitude1="9000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS427" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS224" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="5000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS422" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS421" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="TIWO1C">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="TIWOK" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS206" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="BIHOL" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="5000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS205" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS204" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAZAL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="TIWO1D">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="TIWOK" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS405" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="17000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS404" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS103" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS403" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LOZON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS402" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="TIWO1E">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="TIWOK" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS206" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="BIHOL" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="5000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS205" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS204" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAZAL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS203" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS202" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS201" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+    <Arrival name="TIWO1H">
+      <EnrouteTransitions />
+      <CommonRouteLegs>
+        <Leg type="IF" fixType="WAYPOINT" fixRegion="UM" fixIdent="TIWOK" recommendedType="WAYPOINT" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS405" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="17000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS404" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS103" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="11000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS403" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="6000.0F" speedLimit="220" />
+        <Leg type="TF" fixType="WAYPOINT" fixRegion="UM" fixIdent="LOZON" flyOver="FALSE" recommendedType="WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="4000.0F" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS402" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS401" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="+" altitude1="3000.0F" speedLimit="200" />
+        <Leg type="TF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" magneticCourse="0" altitudeDescriptor="A" altitude1="3000.0F" />
+      </CommonRouteLegs>
+      <RunwayTransitions />
+    </Arrival>
+	<Approach type="ILS" runway="13" designator="LEFT" gpsOverlay="FALSE" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="FF13L" altitude="3000.0F" heading="131" missedAltitude="3000.0F">
+      <ApproachLegs>
+        <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KOPZA" recommendedType="TERMINAL_WAYPOINT" altitudeDescriptor="+" altitude1="3000.0F" altitude2="3000.0F" />
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="FF13L" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedIdent="IMDL" theta="310.8" rho="17228.0M" magneticCourse="131" distance="3.0N" altitudeDescriptor="+" altitude1="3000.0F" altitude2="3000.0F" verticalAngle="357" />
+      </ApproachLegs>
+      <MissedApproachLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS200" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="116.4" rho="8706.627M" magneticCourse="131" distance="9632.864M" />
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS710" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="44.6" rho="15005.04M" magneticCourse="338" distance="6.0N" altitudeDescriptor="A" altitude1="3000.0F" />
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="BIZIF" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="343.1" rho="28342.85M" magneticCourse="311" distance="25008.4M" />
+      </MissedApproachLegs>
+      <Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" altitude="3000.0F">
+        <TransitionLegs>
+          <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NIWAZ" recommendedType="TERMINAL_WAYPOINT" altitudeDescriptor="A" altitude1="3000.0F" />
+          <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KOPZA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedIdent="IMDL" theta="310.8" rho="22970.68M" magneticCourse="131" distance="2.0N" altitudeDescriptor="+" altitude1="3000.0F" />
+        </TransitionLegs>
+      </Transition>
+    </Approach>
+	<Approach type="ILS" runway="13" designator="RIGHT" gpsOverlay="FALSE" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="FF13R" altitude="3000.0F" heading="131" missedAltitude="3000.0F">
+      <ApproachLegs>
+        <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="ZIFSA" recommendedType="TERMINAL_WAYPOINT" altitudeDescriptor="+" altitude1="3000.0F" altitude2="3000.0F" />
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="FF13R" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedIdent="IVX" theta="310.7" rho="17783.75M" magneticCourse="131" distance="3.0N" altitudeDescriptor="+" altitude1="3000.0F" altitude2="3000.0F" verticalAngle="357" />
+      </ApproachLegs>
+      <MissedApproachLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS100" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="128.3" rho="8521.38M" magneticCourse="131" distance="9632.864M" />
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="NOZBA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="128.9" rho="39828.19M" magneticCourse="129" distance="31306.81M" altitudeDescriptor="A" altitude1="3000.0F" />
+      </MissedApproachLegs>
+      <Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" altitude="3000.0F">
+        <TransitionLegs>
+          <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="SANGE" recommendedType="TERMINAL_WAYPOINT" altitudeDescriptor="A" altitude1="3000.0F" />
+          <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="ZIFSA" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedIdent="IVX" theta="310.8" rho="23341.17M" magneticCourse="131" distance="4075.442M" altitudeDescriptor="+" altitude1="3000.0F" />
+        </TransitionLegs>
+      </Transition>
+    </Approach>
+	<Approach type="ILS" runway="31" designator="LEFT" gpsOverlay="FALSE" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="FF31L" altitude="3000.0F" heading="311" missedAltitude="3000.0F">
+      <ApproachLegs>
+        <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="PUPKE" recommendedType="TERMINAL_WAYPOINT" altitudeDescriptor="+" altitude1="3000.0F" altitude2="3000.0F" />
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="FF31L" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedIdent="IGH" theta="130.8" rho="17598.5M" magneticCourse="311" distance="3.0N" altitudeDescriptor="+" altitude1="3000.0F" altitude2="3000.0F" verticalAngle="357" />
+      </ApproachLegs>
+      <MissedApproachLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS300" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="313.5" rho="7595.143M" magneticCourse="311" distance="10003.36M" />
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAZAL" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="312.3" rho="54647.98M" magneticCourse="312" distance="46867.59M" altitudeDescriptor="A" altitude1="3000.0F" />
+      </MissedApproachLegs>
+      <Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" altitude="3000.0F">
+        <TransitionLegs>
+          <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KIWUL" recommendedType="TERMINAL_WAYPOINT" altitudeDescriptor="A" altitude1="3000.0F" />
+          <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="PUPKE" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedIdent="IGH" theta="130.8" rho="23155.92M" magneticCourse="311" distance="4075.442M" altitudeDescriptor="+" altitude1="3000.0F" />
+        </TransitionLegs>
+      </Transition>
+    </Approach>
+	<Approach type="ILS" runway="31" designator="RIGHT" gpsOverlay="FALSE" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="FF31R" altitude="3000.0F" heading="311" missedAltitude="3000.0F">
+      <ApproachLegs>
+        <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="GEFUR" recommendedType="TERMINAL_WAYPOINT" altitudeDescriptor="+" altitude1="3000.0F" altitude2="3000.0F" />
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="FF31R" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedIdent="IMN" theta="130.8" rho="17598.5M" magneticCourse="311" distance="3.0N" altitudeDescriptor="+" altitude1="3000.0F" altitude2="3000.0F" verticalAngle="357" />
+      </ApproachLegs>
+      <MissedApproachLegs>
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS400" flyOver="TRUE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="327.5" rho="4.0N" magneticCourse="311" distance="9632.864M" />
+        <Leg type="DF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="MS710" flyOver="FALSE" turnDirection="R" recommendedType="TERMINAL_WAYPOINT" />
+        <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="KAFTU" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedRegion="UM" recommendedIdent="MNS" theta="99.6" rho="29269.09M" magneticCourse="131" distance="23896.91M" />
+      </MissedApproachLegs>
+      <Transition transitionType="FULL" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" altitude="3000.0F">
+        <TransitionLegs>
+          <Leg type="IF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="LAWEK" recommendedType="TERMINAL_WAYPOINT" altitudeDescriptor="A" altitude1="3000.0F" />
+          <Leg type="CF" fixType="TERMINAL_WAYPOINT" fixRegion="UM" fixIdent="GEFUR" flyOver="FALSE" recommendedType="TERMINAL_WAYPOINT" recommendedIdent="IMN" theta="130.8" rho="23155.92M" magneticCourse="311" distance="2.0N" altitudeDescriptor="+" altitude1="3000.0F" />
+        </TransitionLegs>
+      </Transition>
+    </Approach>
+	
+    <Ndb lat="53.8636389747262" lon="28.058611303567886" alt="0.0F" type="H" frequency="308.000" range="15.0N" magvar="352" region="UM" ident="G" name="MINSK-2" />
+    <Ndb lat="53.90172231942415" lon="28.00211101770401" alt="0.0F" type="H" frequency="308.000" range="15.0N" magvar="352" region="UM" ident="V" name="MINSK-2" />
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="FALSE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
+	</Airport>

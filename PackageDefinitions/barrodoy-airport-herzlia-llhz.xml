@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.0.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>LLHZ</Title>
+		<Manufacturer>Israeli Flight Sim Developers</Manufacturer>
+		<Creator>Israeli Flight Sim Developers</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\barrodoy-airport-herzlia-llhz\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\barrodoy-airport-herzlia-llhz\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="Navdata">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>packagesources\data\</AssetDir>
+			<OutputDir>scenery\world\scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ObjectsLibrary">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>K:\Israel Objects for 2020\LLHZ 2022\LLHZ\packagesources\modelLib\</AssetDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="Services">
+			<Type>Service</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>K:\Israel Objects for 2020\LLHZ 2022\LLHZ\packagesources\Services</AssetDir>
+			<OutputDir>AirportServices\LLHZ\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>packagesources\scene\</AssetDir>
+			<OutputDir>scenery\world\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

@@ -1,0 +1,250 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    },
+    {
+      "name": "node2",
+      "mesh": 1
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "mode": 4,
+          "material": 1
+        }
+      ],
+      "name": "part001"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 40,
+      "type": "VEC3",
+      "min": [
+        -17.81628,
+        0.0,
+        -6.53595
+      ],
+      "max": [
+        17.81628,
+        16.19312,
+        6.53595
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 40,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 40,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 60,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 480,
+      "componentType": 5126,
+      "count": 196,
+      "type": "VEC3",
+      "min": [
+        -13.45068,
+        14.37941,
+        -1.95911
+      ],
+      "max": [
+        14.44428,
+        17.45644,
+        2.6371
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 480,
+      "componentType": 5126,
+      "count": 196,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 320,
+      "componentType": 5126,
+      "count": 196,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 240,
+      "componentType": 5125,
+      "count": 342,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 2
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 3
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "buildcolection04"
+    },
+    {
+      "source": 1,
+      "name": "buildcolection04_lm"
+    },
+    {
+      "source": 2,
+      "name": "building collection06"
+    },
+    {
+      "source": 3,
+      "name": "building collection06_lm"
+    }
+  ],
+  "images": [
+    {
+      "uri": "buildcolection04.png"
+    },
+    {
+      "uri": "buildcolection04_lm.png"
+    },
+    {
+      "uri": "building collection06.png"
+    },
+    {
+      "uri": "building collection06_lm.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1608
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1608,
+      "byteLength": 2832
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4440,
+      "byteLength": 2832
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7272,
+      "byteLength": 1888
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 9160,
+      "uri": "4b_floor.bin"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 1220,
+      "type": "VEC3",
+      "min": [
+        -3.13697,
+        0.00819,
+        -1.81126
+      ],
+      "max": [
+        3.13697,
+        3.85022,
+        1.81126
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 1220,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 1220,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 2676,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "fire_truck2"
+    },
+    {
+      "source": 1,
+      "name": "fire_truck2_lm"
+    }
+  ],
+  "images": [
+    {
+      "uri": "fire_truck2.png"
+    },
+    {
+      "uri": "fire_truck2_lm.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 10704
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10704,
+      "byteLength": 14640
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25344,
+      "byteLength": 14640
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39984,
+      "byteLength": 9760
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 49744,
+      "uri": "Fire_truck2.x.bin"
+    }
+  ]
+}

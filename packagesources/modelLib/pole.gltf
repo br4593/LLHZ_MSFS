@@ -1,0 +1,156 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_material_day_night_switch"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 74,
+      "type": "VEC3",
+      "min": [
+        -0.024989999830722809,
+        0.0,
+        -0.024989999830722809
+      ],
+      "max": [
+        0.024989999830722809,
+        10.0,
+        0.024989999830722809
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 74,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 74,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 210,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "name": "__",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 1.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "aluminium"
+    }
+  ],
+  "images": [
+    {
+      "uri": "aluminium.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 840
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 840,
+      "byteLength": 888,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1728,
+      "byteLength": 888,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2616,
+      "byteLength": 592,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3208,
+      "uri": "pole.bin"
+    }
+  ]
+}
